@@ -15,4 +15,4 @@ streamlit.header('Build Your Own Fruit Smoothie')
 
 streamlit.text("Moms Special Pancakes.")
 
-streamlit.dataFrame(my_fruit_list)
+streamlit.dataframe(my_fruit_list)
